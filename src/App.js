@@ -14,7 +14,7 @@ function App() {
         <Route path="/list" element={<List />} />
         <Route path="/" element={<Log />} />
       </Routes>
-    </>
+  </>
   
   );
 }
